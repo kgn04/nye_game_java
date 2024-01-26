@@ -1,4 +1,4 @@
-# New York Eve AmongUs-Mafia gane [PL]
+# New York Eve AmongUs-Mafia game [PL]
 
 Java Game for parties, various tasks, roles and a lot of fun!
 
