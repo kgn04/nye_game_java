@@ -1,4 +1,4 @@
-# New York Eve AmongUs-Mafia game [PL]
+# New Year's Eve AmongUs-Mafia game [PL]
 
 Java Game for parties, various tasks, roles and a lot of fun!
 
